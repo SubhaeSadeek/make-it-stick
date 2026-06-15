@@ -211,3 +211,19 @@ When learning technical skills:
 
 If your goal is lasting mastery rather than temporary familiarity, make active recall and blind retrieval your default learning strategy.
 
+# Best study techniques for active recall
+### Here are some great revision and study methods that use active recall:
+
+- **Flashcards:** Write key points on one side and the answer on the other. Test yourself regularly!
+- **Practice questions:**  find past papers or create your own questions to mimic the exam format. Be sure to pick the right exam board.
+- **Teach it to someone (the Feynman technique):** Teach a friend or family member the topic or plan a lesson. This forces you to truly understand it. ‍
+**Summarise in your own words:**  Condense key points into a shorter text or bullet points. This tests your grasp of the material.
+**Blurting:** Rapidly write down everything you recall about a topic. It's messy but effective!
+
+**Tip:** _If you want to do active recall without an app, try Blurting, the Feynman Technique and past exam papers._
+
+
+
+
+
+
