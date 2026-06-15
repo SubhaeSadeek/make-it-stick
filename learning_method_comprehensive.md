@@ -6,7 +6,7 @@
 
 - **Forgetting is normal**: The brain discards information that isn't reinforced. Traditional study methods don't work because they don't challenge the brain to actively recall information.
 
-- Two essential phases: 
+- **Two essential phases:** 
 	
 	1) Accurate acquisition
 		- Making sure what enters your brain is clear and meaningful.
@@ -14,7 +14,7 @@
 	2) Durable retention
 		- Making sure what enters-stays.
 
-- MAPS Framework: This framework is used to encode knowledge deeply:
+- **MAPS Framework: This framework is used to encode knowledge deeply:**
     - Methods: Learning by doing. 
 		- Put the new knowledge into use, right away.
 		- Explain what you've just read in real time.
@@ -32,7 +32,7 @@
 		- The rule: "Struggle to remember, and the memory becomes stronger"
 
 
-- Retrieval Pyramid: The more you retrieve information, the stronger your memory becomes.
+- **Retrieval Pyramid: The more you retrieve information, the stronger your memory becomes.**
 
 # Merve's way to study
 
